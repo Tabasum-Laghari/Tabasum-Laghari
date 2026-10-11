@@ -1,18 +1,108 @@
-# 💫 About Me:
-Hi, I'm Tabasum Laghari<br>Frontend Web Developer · Learning MERN Stack · Prompt Engineering & AI Specialist · MS Word Formatting Specialist<br><br>Shaheed Benazirabad District, Sindh, Pakistan<br><br>Passionate Information Technology student with 3 years of hands-on frontend web development experience (HTML, CSS, JavaScript, React.js, Tailwind CSS) and specialized expertise in Prompt Engineering and Document Architecture. Currently mastering backend with the MERN Stack.<br><br>Get In Touch<br>Email Me<br>View LinkedIn Profile<br>engineer://tabasum_laghari<br>// System Initialization<br>const engineer = {<br>  name: 'Tabasum Laghari',<br>  role: 'Frontend & AI Engineer',<br>  education: 'BS IT @ QUEST',<br>  focus: ['React', 'Tailwind',<br>          'Prompt Eng.', 'MERN'],<br>  python: '10 Days of Python ✔',<br>  status: 'Seeking 2025 Opportunities'<br>};<br>// System ready. Dispatching...<br>Verified Identity<br>Quest ID '26<br>3+<br><br>Years of Frontend Experience<br><br>2<br><br>Completed Internships<br><br>5+<br><br>Professional Certifications<br><br>2024–2028<br><br>BS IT Candidate at QUEST<br><br>Foundation & Technology<br><br>About Me & Background<br>Academic Pillar · QUEST Nawabshah<br><br>I am an undergraduate student pursuing a Bachelor of Science in Information Technology (2024–2028) at Quaid-e-Awam University of Engineering, Sciences and Technology (QUEST), Nawabshah.<br><br>Over the past three years, my journey in technology has centered around software craftsmanship with a strong focus on frontend development. I treat user interfaces as high-precision systems: performant, responsive, accessible and aesthetically cohesive. Alongside frontend work, I have built a strong foundation in Python — I completed the 10 Days of Python program by Next Generation — and I actively use AI-assisted workflows and prompt engineering to build faster and smarter.<br><br>UI/UX Engineering<br>Component architecture with React.js and Tailwind CSS, delivering responsive, pixel-accurate interfaces.<br><br>Prompt & AI Integration<br>Multi-step structured prompting, context management and agentic workflows for real tasks.<br><br>Technical Documentation<br>Specialized MS Word document architecture, styles, typography and professional layouts.<br><br>Python Programming<br>Completed 10 Days of Python (Next Generation): core syntax, logic, functions and problem solving.<br><br>Portrait of Tabasum Laghari<br>Tabasum Laghari<br>QUEST IT Candidate · Sindh, PK<br><br>Operational Paradigms<br><br>Modern Web Standards<br>Prompt Architectures<br>Agentic Workflows<br>Python Basics<br>Engine & Capabilities<br><br>Technical Stack & Specializations<br>A structured inventory of client-side engineering tools, generative AI techniques and emerging full-stack paradigms.<br><br>Front-End Development<br>Primary · 3+ yrs<br>Specialized in building clean, single-page applications, modular styling architectures and responsive layouts.<br><br>HTML5 Semantic<br>CSS3 Modern<br>JavaScript (ES6+)<br>React.js<br>Tailwind CSS<br>Responsive UI/UX<br>Component Architecture<br>AI & Prompt Engineering<br>Certified<br>Leveraging structured prompting, context handling and terminal-based agentic tools to automate real workflows.<br><br>Essential Prompt Writing<br>Claude Code Workflows<br>Prompt Optimization<br>AI Essentials<br>Python Programming<br>Completed<br>Completed the 10 Days of Python program by Next Generation, building a strong base in Python fundamentals.<br><br>Variables & Data Types<br>Loops & Conditions<br>Functions<br>Problem Solving<br>Backend & Databases<br>In Progress · MERN<br>Expanding into full-stack foundations: server-side logic, REST APIs and document databases.<br><br>Node.js Runtime<br>Express.js APIs<br>MongoDB & Mongoose<br>RESTful Architecture<br>Specialized & Tooling Stack<br>Specialist<br>Professional document formatting, version control and everyday developer tooling.<br><br>MS Word Document Architecture<br>Technical Report Styling<br>Git Version Control<br>GitHub Pages<br>VS Code Workspaces<br>Field Work<br><br>Professional Experience<br>Completed intensive frontend internships delivering real-world components, responsive architectures and optimized client sites.<br><br>Career Highlights<br><br>2 Successful Internships Completed<br><br>Cross-browser compatibility testing, responsive layout delivery and clean, maintainable code from start to finish.<br><br>100% on-time execution<br><br>Nexvel Hub Official<br>Frontend Website Development Intern<br><br>Sep 2025 – Nov 2025<br>Successfully worked on an interactive website internship. Engineered modern, mobile-first responsive web interfaces, translated UI/UX design mockups into functional frontend components using modern HTML, CSS and JavaScript, and optimized page performance.<br><br>Responsive Layouts<br>Mockup Translation<br>JavaScript ES6+<br>UI Optimization<br>CodeAlpha<br>Frontend Web Development Intern<br><br>Sep 2025 – Oct 2025 · Remote<br>Completed comprehensive frontend development internship at CodeAlpha. Implemented robust cross-browser compatible UI elements, interactive client-side features, and modular code structures. Maintained clean repository versioning and delivered high-quality projects within strict deadlines.<br><br>Cross-Browser Compat<br>Modular Components<br>Client-Side Logic<br>Git Versioning<br>Accreditations<br><br>Licenses & Certifications<br>Continuous validation across foundational AI, structured prompt engineering, advanced agentic terminal execution and modern web development.<br><br>AI Essentials<br>Verified<br>Foundational knowledge of machine intelligence paradigms, key AI workflows and contemporary generative principles.<br><br>Credential type: Foundational AI<br><br>Essential Prompt Writing<br>Verified<br>Mastery over structured prompt systems: system instructions, few-shot prompting and context design.<br><br>Credential type: Prompt Specialist<br><br>Claude Code in Action<br>Agentic Mastery<br>Terminal workflows employing agentic development, multi-file code exploration and automation.<br><br>Credential type: Agentic Coding<br><br>Claude Code 101<br>Completed<br>Certificate of completion covering core mechanics of AI-assisted terminal development workflows.<br><br>Status: Fully completed<br><br>Website Development Certification<br>Completed<br>Full frontend standards and architecture: semantic HTML5, CSS3 layout systems and JavaScript DOM manipulation.<br><br>Specialization: Responsive Frontend Engineering<br><br>10 Days of Python<br>Completed<br>Completed the 10-day Python program by Next Generation covering core syntax, logic, functions and hands-on practice.<br><br>Issuer: Next Generation<br><br>Formal Academia<br><br>Academic Education<br>Quaid-e-Awam University of Engineering, Sciences and Technology (QUEST)<br>Bachelor of Science in Information Technology<br><br>September 2024 – December 2028<br><br>Engaging in an intensive 4-year curriculum building up to build profound computational thinking, software design principles and systems architecture. Coursework and lab work emphasize:<br><br>Data Structures & Algorithm Analysis<br>Web Technologies & Client Architecture<br>Database Systems & Relational Modeling<br>Software Engineering Methodologies<br>QUEST Nawabshah<br><br>Prestigious engineering & tech institution<br><br>Class of 2028<br><br>Transmission Portal<br><br>Get In Touch<br>Available for full-time frontend internships, collaborative software projects and prompt engineering initiatives. Reach out directly or dispatch a message below.<br><br>Direct Email<br><br>lagharitaj00@gmail.com<br><br>Fastest response window. Feel free to send internship specs or technical discussions.<br><br>Copy Email Address<br>Professional Network<br><br>LinkedIn Profile<br><br>Connect for industry updates, technical credentials and professional lookups.<br><br>linkedin.com/in/tabasum-laghari<br>Physical Base<br><br>Shaheed Benazirabad<br><br>Sindh, Pakistan — open to remote, hybrid and on-site opportunities.<br><br>Send a message<br><br>Internship & Collaboration Inquiries<br>Your name <br>Your name<br>Email address <br>name@company.com<br>Subject <br>Frontend internship offer / collaboration<br>Message <br>Hello Tabasum, we reviewed your work and would like to discuss an opportunity...<br><br>Send Message<br>Opens your email app<br>Tabasum Laghari Portfolio<br><br>Frontend Web Developer & Prompt Engineer specialized in modern professional interfaces, LLM agent workflows and high-performance web UI.<br><br>Direct Support Endpoint<br><br>lagharitaj00@gmail.com<br>Sindh, PakistanSkip to content<br>Dashboard<br>Top repositories<br>Dashboard<br>Good afternoon, Tabasum-Laghari!<br>Copilot<br>Ask anything or type @ to add context<br><br>Chat commands<br>Pull requests<br>View allpull requests<br>No pull requests found, try a different filter.<br><br>Issues<br>View allissues<br>No issues found, try a different filter.<br><br>Latest from our changelog<br>yesterday<br>New controls and chat improvements in Copilot for JetBrains<br>2 days ago<br>GitHub Copilot weekly releases — October 5<br>2 days ago<br>CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis<br>3 days ago<br>Copilot code review: New organization billing options and controls<br>View changelog →<br>Footer<br>© 2026 GitHub, Inc.<br>Footer navigation<br>Terms<br>Privacy<br>Security<br>Status<br>Community<br>Docs<br>Contact<br>Manage cookies<br>Do not share my personal information<br>
+<h1 align="center">Hi, I'm Tabasum Laghari 👋</h1>
 
+<p align="center">
+  <b>Frontend Web Developer · Prompt Engineer · MS Word Formatting Specialist</b><br/>
+  Learning the MERN Stack 🚀
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tabasum-laghari-79375b366/?isSelfProfile=true) 
-
-# 💻 Tech Stack:
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Tabasum-Laghari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Tabasum-Laghari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tabasum-Laghari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/tabasum-laghari-79375b366/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:lagharitaj00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Tabasum-Laghari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+- 🎓 BS Information Technology (2024–2028) at **QUEST, Nawabshah**
+- 💻 **3+ years** of frontend experience: HTML, CSS, JavaScript, React.js, Tailwind CSS
+- 🤖 Prompt Engineering & AI-assisted workflows (Claude Code certified)
+- 📄 Specialist in MS Word document architecture & technical report styling
+- 🐍 Completed **10 Days of Python** (Next Generation)
+- 🌱 Currently learning **Node.js, Express.js, MongoDB** (MERN)
+- 📍 Shaheed Benazirabad, Sindh, Pakistan
+- 🔎 **Open to:** frontend internships, collaborations & prompt engineering projects (remote / hybrid / on-site)
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases (Learning)**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MS Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+---
+
+## 💼 Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| Frontend Website Development Intern | **Nexvel Hub Official** | Sep 2025 – Nov 2025 |
+| Frontend Web Development Intern | **CodeAlpha** (Remote) | Sep 2025 – Oct 2025 |
+
+- Built mobile-first responsive interfaces and converted UI/UX mockups into working components
+- Implemented cross-browser compatible, modular code with clean Git versioning
+- Delivered all projects on time
+
+---
+
+## 🏆 Certifications
+
+- ✅ AI Essentials
+- ✅ Essential Prompt Writing
+- ✅ Claude Code in Action
+- ✅ Claude Code 101
+- ✅ Website Development Certification
+- ✅ 10 Days of Python (Next Generation)
+
+---
+
+## 🧠 What I Do
+
+| 🎨 UI/UX Engineering | 🤖 Prompt & AI | 📄 Technical Docs | 🐍 Python |
+|---|---|---|---|
+| Responsive React + Tailwind interfaces | Structured prompting & agentic workflows | MS Word styles, typography & layouts | Core syntax, logic & functions |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=Tabasum-Laghari&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tabasum-Laghari&theme=dark&hide_border=false&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tabasum-Laghari&theme=dark&hide_border=false" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+📧 **lagharitaj00@gmail.com**
+🔗 [linkedin.com/in/tabasum-laghari-79375b366](https://www.linkedin.com/in/tabasum-laghari-79375b366/)
+
+<p align="center">
+  <i>"Building clean, fast and accessible interfaces, one component at a time." ✨</i><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Tabasum-Laghari&color=blueviolet&style=flat-square" />
+</p>
